@@ -1,2 +1,1 @@
-# MangaStore
-An Ecommerce website built using django
+# Manga E-commerce
